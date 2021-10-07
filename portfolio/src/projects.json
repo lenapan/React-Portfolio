@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Vanilla JS",
+    "image":
+      "https://ipfs.io/ipfs/QmV8uw72vtwZbiweQr43KLXFcmELi7AnuGVpFPEq4MonA6",
+    "url":"https://lenapan.github.io/06_javascriptQuiz/"
+  },
+  {
+    "id": 2,
+    "name": "Vanilla JS with API calls",
+    "image":
+      "https://ipfs.io/ipfs/QmVNmrYTT99gpPBJoV4vSe1EoE1PWz1JNDUmgWctNDvnaS",
+    "url":"https://lenapan.github.io/07_ThirdPartyAPIs/"
+  },
+  {
+    "id": 3,
+    "name": "jQuery with API calls",
+    "image":
+      "https://ipfs.io/ipfs/QmTZBrSv4uEScu6SQkiGuyM3aYdpa76puL2k1Vrc7DagCz",
+    "url":"https://lenapan.github.io/08_ServerSideAPIs/"
+  },
+  {
+    "id": 4,
+    "name": "Mobile-First Responsive Design with 2 API calls",
+    "image":
+      "https://ipfs.io/ipfs/QmWmfCpidZGSf3G3FoV75p9GTviYRtKJ5Q15hwEhmdJmi4",
+    "url":"https://lenapan.github.io/Project1/"
+  }
+]

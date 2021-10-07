@@ -1,0 +1,39 @@
+body {
+    padding-top: 50px;
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    padding: 20px;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
+    color: #8a240d;
+    background-image:		
+      url('http://images.fineartamerica.com/images-medium-large/cherry-blossom-3-rachel-dutton.jpg');
+      background-repeat: repeat-x;
+      background-position: 
+       
+        0 50%;
+       
+      background-size: 
+        1000px;
+       
+      animation: 300s para infinite linear;
+      }
+    
+    @keyframes para {
+      100% {
+        background-position: 
+          -5000px 20%,
+          -800px 95%,
+          500px 50%,
+          1000px 100%,
+          400px 0;
+        }
+      }
+h1{
+margin: 0;
+padding: 0;
+display: flex;
+align-items: center;
+}
