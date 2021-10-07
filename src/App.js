@@ -25,6 +25,7 @@ class App extends Component {
             key={f.id} //great for differentiating duplicate values
             name={f.name}
             image={f.image}
+            more = {f.more}
             url={f.url}
             />
         ))}

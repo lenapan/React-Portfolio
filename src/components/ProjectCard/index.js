@@ -12,6 +12,7 @@ function ProjectCard(props) {
           <li>
             <strong>{props.name}</strong>
           </li>
+          <p>{props.more}</p>
           <li>
             <strong><a href={props.url}>{props.url}</a></strong>
           </li>

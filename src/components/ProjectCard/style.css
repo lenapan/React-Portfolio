@@ -1,6 +1,6 @@
 .card {
   background: #fff;
-  border-radius: 0 100px;
+  border-radius: 5pxx;
   height: 100%;
   position: relative;
   width: 50%;
@@ -23,6 +23,7 @@
   padding-right: 1rem;
   font-size: 30px;
   overflow:hidden;
+  text-align: center;
 }
 
 .card > .content > ul {
@@ -35,7 +36,7 @@
 }
 a{
   text-decoration: none;
-  color:pink;
+  color:purple;
 }
 a:hover{
   color: #fb7c5f;
@@ -43,4 +44,8 @@ a:hover{
 }
 li strong{
   color:#a12d1d;
+}
+p{
+  font-size: 22px;
+  text-align: justify;
 }

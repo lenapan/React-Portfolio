@@ -8,10 +8,10 @@
   margin-bottom: 50px;
   background:linear-gradient(0deg, rgba(146, 123, 108, 0.6) 100%, rgba(116, 219, 142, 0.7) 100%);
   padding: 5px 0;
-  border-radius: 100px 0;
+  border-radius: 5px;
 }
 h3, h4, h5{
-  margin:7%;
+  margin:17%;
 }
 h4, h5{
   color:#fff;
