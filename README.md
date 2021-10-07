@@ -1,4 +1,4 @@
-# React Portfolio with React
+# Portfolio using React.js
 
 This is not a polished website yet.
 Will include more changes in the future.
