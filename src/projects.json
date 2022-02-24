@@ -6,6 +6,7 @@
       "https://ipfs.io/ipfs/QmV8uw72vtwZbiweQr43KLXFcmELi7AnuGVpFPEq4MonA6",
     "url":"https://lenapan.github.io/Javascript-Quiz/",
     "more":"My very FIRST time building something using pure Javascript. The interface may be aesthethically simple, but the logic behind it (as a beginner) feels like a HUGE accomplishment. It's a multiple choice coding quiz that keeps track of user score time and correct answers."
+  },
   {
     "id": 4,
     "name": "Mobile-First Responsive Design with 2 API calls",
