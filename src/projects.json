@@ -29,7 +29,7 @@
     "image":
       "https://ipfs.io/ipfs/QmTZBrSv4uEScu6SQkiGuyM3aYdpa76puL2k1Vrc7DagCz",
     "url":"https://lenapan.github.io/08_ServerSideAPIs/",
-    "more":"I used a Weather API with jQuery to retrieve external JSON data. Thus, typing in a city and clicking on the search button will display weather information for that city. A 'clickable' search history will also appear on the page.
+    "more":"I used a Weather API with jQuery to retrieve external JSON data. Thus, typing in a city and clicking on the search button will display weather information for that city. A 'clickable' search history will also appear on the page."
   }
  
 ]
